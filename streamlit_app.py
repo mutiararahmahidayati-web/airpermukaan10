@@ -5,5 +5,7 @@ st.set_page_config(
   layout="wide"
 )
 st.title("📊 Dashboard")
+st.header("Laporan Bulanan")
+st.caption("Made with and emojis :love red:")
 
 st.write("Hello, *World!* :sunglasses:")
